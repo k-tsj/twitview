@@ -1,0 +1,39 @@
+span { word-wrap: break-word; }
+
+#tweet li.marked { background-color: #ffff99; }
+
+#tweet li.read { border-top: solid 3px #0000ff; }
+
+#tweet img { width: 24px; height: 24px; }
+
+span.status_header { font-size: 80%; font-weight: bold; color: gray; }
+
+#settings_name { width: 150px; }
+
+#settings_show { width: 3em; }
+
+ul li a, li.img a + a {color:#666666; }
+
+.lbutton {
+    position: absolute;
+    overflow: hidden;
+    top: 8px;
+    margin: 0;
+    border-width: 0 5px;
+    padding: 0 3px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px -1px 0;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    left: 6px;
+    right: auto;
+    -webkit-border-image: url(../lib/themes/apple/img/toolButton.png) 0 5 0 5;
+}
