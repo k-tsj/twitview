@@ -1,5 +1,7 @@
 span { word-wrap: break-word; }
 
+#tweet { font-weight: normal; }
+
 #tweet li.marked { background-color: #ffff99; }
 
 #tweet li.read { border-top: solid 3px #0000ff; }
