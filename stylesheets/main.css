@@ -8,6 +8,13 @@ span { word-wrap: break-word; }
 
 #tweet img { width: 24px; height: 24px; }
 
+#tweet a {
+    display: block;
+    color: #2276BB;
+    font-weight: normal;
+    background: none;
+}
+
 span.status_header { font-size: 80%; font-weight: bold; color: gray; }
 
 #settings_username { width: 150px; }
