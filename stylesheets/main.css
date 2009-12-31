@@ -8,9 +8,9 @@ span { word-wrap: break-word; }
 
 span.status_header { font-size: 80%; font-weight: bold; color: gray; }
 
-#settings_name { width: 150px; }
+#settings_username { width: 150px; }
 
-#settings_show { width: 3em; }
+#settings_statuses_per_page { width: 3em; }
 
 ul li a, li.img a + a {color:#666666; }
 
