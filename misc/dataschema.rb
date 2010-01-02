@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-#  Copyright (C) 2004-2009 Kazuki Tsujimoto, All rights reserved.
+#  Copyright (C) 2004-2010 Kazuki Tsujimoto, All rights reserved.
 #
 #  Redistribution and use in source and binary forms, with or without
 #  modification, are permitted provided that the following conditions
