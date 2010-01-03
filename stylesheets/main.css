@@ -21,7 +21,7 @@ span.status_header { font-size: 80%; font-weight: bold; color: gray; }
 
 #settings_statuses_per_page { width: 3em; }
 
-ul li a, li.img a + a {color:#666666; }
+ul li a, li.img a + a { color:#666666; }
 
 .lbutton {
     position: absolute;
