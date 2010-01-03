@@ -23,6 +23,8 @@ span.status_header { font-size: 80%; font-weight: bold; color: gray; }
 
 ul li a, li.img a + a { color:#666666; }
 
+ul li a + a { font-size: 17px; }
+
 .lbutton {
     position: absolute;
     overflow: hidden;
